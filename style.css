@@ -110,3 +110,38 @@
     padding: 30px;
     margin: 90px;
 }
+.service-cont{
+    display: flex;
+    justify-content: space-around;
+    padding: 120px;
+}
+.box{
+    width: 800px;height: 850px;
+    box-shadow: 50px 50px 80px grey;
+    background-color: rosybrown;
+    text-align: center;
+    padding: 90px;
+    color: white;
+}
+.icon{
+    width: 300px;
+}
+.box-btn2{
+    padding: 30px 50px;
+    background-color: grey;
+    font-size: 50px;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.tittle3{
+    text-align: center;
+    font-size: 90px;
+    padding-top: 0px;
+}
+.box-word{
+    font-size: 65px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
