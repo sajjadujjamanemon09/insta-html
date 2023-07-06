@@ -92,6 +92,12 @@
     color: black;
     /* background-color: black; */
 }
+.tittle23{
+    text-align: center;
+    font-size: 140px;
+    padding-top: 50px;
+    background-color: #c4b7b7;
+}
 .tittle2{
     text-align: center;
     font-size: 140px;
@@ -114,9 +120,11 @@
     display: flex;
     justify-content: space-around;
     padding: 120px;
+    background-color: #c4b7b7;
 }
+
 .box{
-    width: 800px;height: 850px;
+    width: 900px;height: 1000px;
     box-shadow: 50px 50px 80px grey;
     background-color: rosybrown;
     text-align: center;
