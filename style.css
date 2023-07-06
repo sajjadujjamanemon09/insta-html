@@ -42,6 +42,10 @@
     /* border: 10px solid; */
     background-image: url("./image/bg.png"), 
     linear-gradient(45deg,#151515,#c4b7b7);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
 }
 
 .titel{
@@ -65,4 +69,44 @@
 .btn:hover{
     color: black;
     /* background-color: black; */
+}
+
+.about-cont{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+    /* padding: 50px; */
+    /* margin: 100px; */
+}
+.btn2{
+    padding: 30px 50px;
+    background-color: red;
+    color: white;
+    font-size: 50px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.btn2:hover{
+    color: black;
+    /* background-color: black; */
+}
+.tittle2{
+    text-align: center;
+    font-size: 140px;
+    padding-top: 50px;
+}
+.tanha{
+    font-size: 80px;
+    font-weight: bold;
+}
+.ttn{
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.about-info{
+    padding: 30px;
+    margin: 90px;
 }
